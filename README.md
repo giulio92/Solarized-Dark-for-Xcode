@@ -7,7 +7,7 @@ Solarized Dark for Xcode
 This theme works with Xcode 5, 6, 7, 8.
 
 ## Installation
-Copy the `.dvtcolortheme`file into the following directory: 
+Copy the `..xccolortheme`file into the following directory: 
 
 ```
 ~/Library/Developer/Xcode/UserData/FontAndColorThemes
