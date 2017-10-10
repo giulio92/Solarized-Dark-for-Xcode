@@ -5,7 +5,7 @@
 </p>
 
 ## Compatibility
-Xcode 5.0+
+Xcode 8.0+
 
 ## Installation
 1. Copy the `.xccolortheme` file into the following directory:
