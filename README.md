@@ -1,20 +1,18 @@
-Solarized Dark for Xcode
-========================
+# Solarized Dark for Xcode
 
-![Forced Update](https://github.com/ArtSabintsev/Solarized-Dark-for-Xcode/blob/master/solarizedDark.png?raw=true "Solarized Dark Screenshot") 
+<p align="center">
+    <img src="https://github.com/giulio92/Solarized-Dark-for-Xcode/raw/master/solarizedDark.png" width="675">
+</p>
 
-## Background
-This theme works with Xcode 5, 6, 7, 8.
+## Compatibility
+Xcode 5.0+
 
 ## Installation
-Copy the `.xccolortheme`file into the following directory: 
+1. Copy the `.xccolortheme` file into the following directory:
+`~/Library/Developer/Xcode/UserData/FontAndColorThemes`
 
-```
-~/Library/Developer/Xcode/UserData/FontAndColorThemes
-```
+2. Restart Xcode
+3. Go to preferences and select **Solarized Dark** theme from the list
 
-- Restart Xcode
-- Go to preferences and select **Solarized Dark @ArtSabintsev**
-
-## Created and maintained by
-[Arthur Ariel Sabintsev](http://www.sabintsev.com)
+## Credits
+Creator: [Arthur Ariel Sabintsev](http://www.sabintsev.com)
