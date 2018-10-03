@@ -11,9 +11,10 @@ Xcode 8.0+
 1. Copy the `.xccolortheme` file into the following directory:
 `~/Library/Developer/Xcode/UserData/FontAndColorThemes`
 
-2. Restart Xcode
-3. Go to Xcode > Preferences > Fonts & Colors
-4. Select **Solarized Dark** theme from the list
+2. Download [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) font
+3. Restart Xcode
+4. Go to Xcode > Preferences > Fonts & Colors
+5. Select **Solarized Dark** theme from the list
 
 ## Credits
 Creator: [Arthur Ariel Sabintsev](http://www.sabintsev.com)
