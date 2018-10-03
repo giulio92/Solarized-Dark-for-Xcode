@@ -5,7 +5,7 @@
 	<key>DVTConsoleDebuggerInputTextColor</key>
 	<string>1 1 1 1</string>
 	<key>DVTConsoleDebuggerInputTextFont</key>
-	<string>SourceCodePro-Regular - 11.0</string>
+	<string>SourceCodePro-Semibold - 11.0</string>
 	<key>DVTConsoleDebuggerOutputTextColor</key>
 	<string>1 1 1 1</string>
 	<key>DVTConsoleDebuggerOutputTextFont</key>
@@ -30,6 +30,8 @@
 	<string>0 0.329412 0.396078 1</string>
 	<key>DVTDebuggerInstructionPointerColor</key>
 	<string>0.513725 0.580392 0.588235 1</string>
+	<key>DVTLineSpacing</key>
+	<real>1.1000000238418579</real>
 	<key>DVTMarkupTextBackgroundColor</key>
 	<string>0.08 0.235137 0.274824 1</string>
 	<key>DVTMarkupTextBorderColor</key>
@@ -138,7 +140,7 @@
 		<key>xcode.syntax.comment.doc</key>
 		<string>SourceCodePro-Regular - 11.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>SourceCodePro-Regular - 11.0</string>
+		<string>SourceCodePro-Bold - 11.0</string>
 		<key>xcode.syntax.identifier.class</key>
 		<string>SourceCodePro-Regular - 11.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
